@@ -1,0 +1,10 @@
+PolyGuide Local Model Regression Test
+======================================
+25/25 tests passed.
+
+Covered:
+- AI Direct bypasses intent routing.
+- Real B.L. Patil Polytechnic data is bundled.
+- GGUF chat-template failure retries through plain completion.
+- Inference failures do not permanently mark a loaded model unavailable.
+- Hybrid mode remains able to use deterministic fallback.

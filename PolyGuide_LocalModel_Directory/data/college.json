@@ -1,0 +1,273 @@
+{
+  "college": {
+    "name": "Khalapur Taluka Shikshan Prasarak Mandal's, B.L. Patil Polytechnic, Khopoli, Dist. Raigad",
+    "short_name": "B.L. Patil Polytechnic, Khopoli",
+    "demo": false,
+    "institute_code": "3260",
+    "ownership": "Unaided / Private",
+    "affiliation": "Maharashtra State Board of Technical Education (MSBTE)",
+    "approval": "AICTE approved",
+    "established": 1983,
+    "district": "Raigad",
+    "state": "Maharashtra",
+    "pincode": "410203",
+    "source": "DTE Maharashtra institute records; MSBTE/Fees Fixation Committee records",
+    "updated": "2026-09-30",
+    "verified": true
+  },
+  "admission": {
+    "10th": {
+      "eligibility": {
+        "text": "First-year Post-SSC Diploma in Engineering/Technology: candidate must meet the Maharashtra DTE eligibility conditions for the 2026-27 diploma admission cycle, including passing the prescribed SSC/10th qualification from a recognized institution and satisfying the applicable candidature/subject requirements.",
+        "source": "Directorate of Technical Education, Maharashtra State – Diploma Admission Information Brochure 2026-27",
+        "updated": "2026-06",
+        "verified": true
+      },
+      "steps": {
+        "text": "Register online on the Maharashtra DTE diploma admission portal, fill the application, upload/submit the required documents, complete document scrutiny/confirmation, participate in CAP rounds, and report to the allotted institute for admission formalities.",
+        "source": "Directorate of Technical Education, Maharashtra State – Diploma Admissions 2026-27",
+        "updated": "2026-06",
+        "verified": true
+      },
+      "documents": {
+        "text": "SSC/10th or qualifying marksheet; school/college leaving certificate; nationality/domicile documents as applicable; category/caste/income/non-creamy-layer/caste-validity documents where applicable; gap certificate if applicable; equivalence or migration certificate for applicable outside-Maharashtra qualifications; passport-size photographs and required copies.",
+        "source": "Directorate of Technical Education, Maharashtra State – Diploma Admission Information Brochure 2026-27",
+        "updated": "2026-06",
+        "verified": true
+      },
+      "dates": {
+        "text": "For AY 2026-27, DTE states that First Year Engineering/Architecture Diploma admissions commenced on 20 May 2026. CAP and institute-level vacancy schedules are issued separately by DTE.",
+        "source": "Directorate of Technical Education, Maharashtra State – official notices, 2026-27",
+        "updated": "2026-09-30",
+        "verified": true
+      }
+    },
+    "12th": {
+      "eligibility": {
+        "text": "For Direct Second Year of Post-SSC Diploma Courses, DTE 2026-27 permits eligible 10+2/HSC candidates with a qualifying subject combination listed in the brochure; the candidate must satisfy the applicable Maharashtra candidature requirements.",
+        "source": "Directorate of Technical Education, Maharashtra State – Diploma Admission Information Brochure 2026-27",
+        "updated": "2026-06",
+        "verified": true
+      },
+      "steps": {
+        "text": "Apply through the Maharashtra DTE Direct Second Year Diploma admission process, complete document scrutiny/confirmation, participate in the applicable CAP process, and report to the allotted institute.",
+        "source": "Directorate of Technical Education, Maharashtra State – Diploma Admissions 2026-27",
+        "updated": "2026-06",
+        "verified": true
+      },
+      "documents": {
+        "text": "SSC/10th or qualifying marksheet; school/college leaving certificate; nationality/domicile documents as applicable; category/caste/income/non-creamy-layer/caste-validity documents where applicable; gap certificate if applicable; equivalence or migration certificate for applicable outside-Maharashtra qualifications; passport-size photographs and required copies. For Direct Second Year, include the qualifying HSC/10+2 marksheet as applicable.",
+        "source": "Directorate of Technical Education, Maharashtra State – Diploma Admission Information Brochure 2026-27",
+        "updated": "2026-06",
+        "verified": true
+      },
+      "dates": {
+        "text": "Direct Second Year Diploma admission dates are released through the DTE Maharashtra CAP schedule for the relevant academic year; use the current DTE schedule for exact round dates.",
+        "source": "Directorate of Technical Education, Maharashtra State – official notices, 2026-27",
+        "updated": "2026-09-30",
+        "verified": true
+      }
+    },
+    "iti": {
+      "eligibility": {
+        "text": "Direct Second Year Diploma eligibility includes 10th/SSC plus a qualifying two-year ITI with appropriate specialization, subject to Maharashtra DTE rules for 2026-27.",
+        "source": "Directorate of Technical Education, Maharashtra State – Diploma Admission Information Brochure 2026-27",
+        "updated": "2026-06",
+        "verified": true
+      },
+      "steps": {
+        "text": "Register for the DTE Direct Second Year Diploma admission process, complete document verification/confirmation, participate in CAP, and complete institute reporting and admission formalities after allotment.",
+        "source": "Directorate of Technical Education, Maharashtra State – Diploma Admissions 2026-27",
+        "updated": "2026-06",
+        "verified": true
+      },
+      "documents": {
+        "text": "SSC/10th or qualifying marksheet; school/college leaving certificate; nationality/domicile documents as applicable; category/caste/income/non-creamy-layer/caste-validity documents where applicable; gap certificate if applicable; equivalence or migration certificate for applicable outside-Maharashtra qualifications; passport-size photographs and required copies. For Direct Second Year through ITI, include the SSC/10th certificate and the qualifying ITI certificate/marksheet.",
+        "source": "Directorate of Technical Education, Maharashtra State – Diploma Admission Information Brochure 2026-27",
+        "updated": "2026-06",
+        "verified": true
+      },
+      "dates": {
+        "text": "Direct Second Year Diploma dates are published by DTE Maharashtra in the annual CAP schedule; exact dates vary by the admission cycle and round.",
+        "source": "Directorate of Technical Education, Maharashtra State – official notices, 2026-27",
+        "updated": "2026-09-30",
+        "verified": true
+      }
+    }
+  },
+  "departments": {
+    "computer": {
+      "name": "Computer Engineering",
+      "aliases": [
+        "computer",
+        "computers",
+        "comp",
+        "computer engineering"
+      ],
+      "choice_code": "326024510",
+      "sanctioned_intake": 60,
+      "course_duration": "3 years",
+      "mode": "Regular full-time Diploma",
+      "overview": {
+        "text": "Computer Engineering diploma program offered at B.L. Patil Polytechnic, Khopoli. DTE institute-course records list a sanctioned intake of 60 seats for this program; the institute is an unaided MSBTE-affiliated polytechnic.",
+        "source": "Directorate of Technical Education, Maharashtra State institute-course records for institute code 3260",
+        "updated": "2025-26 source record",
+        "verified": true
+      }
+    },
+    "mechanical": {
+      "name": "Mechanical Engineering",
+      "aliases": [
+        "mechanical",
+        "mech",
+        "mechanical engineering"
+      ],
+      "choice_code": "326061210",
+      "sanctioned_intake": 60,
+      "course_duration": "3 years",
+      "mode": "Regular full-time Diploma",
+      "overview": {
+        "text": "Mechanical Engineering diploma program offered at B.L. Patil Polytechnic, Khopoli. DTE institute-course records list a sanctioned intake of 60 seats for this program; the institute is an unaided MSBTE-affiliated polytechnic.",
+        "source": "Directorate of Technical Education, Maharashtra State institute-course records for institute code 3260",
+        "updated": "2025-26 source record",
+        "verified": true
+      }
+    },
+    "civil": {
+      "name": "Civil Engineering",
+      "aliases": [
+        "civil",
+        "civil engineering"
+      ],
+      "choice_code": "326019110",
+      "sanctioned_intake": 30,
+      "course_duration": "3 years",
+      "mode": "Regular full-time Diploma",
+      "overview": {
+        "text": "Civil Engineering diploma program offered at B.L. Patil Polytechnic, Khopoli. DTE institute-course records list a sanctioned intake of 30 seats for this program; the institute is an unaided MSBTE-affiliated polytechnic.",
+        "source": "Directorate of Technical Education, Maharashtra State institute-course records for institute code 3260",
+        "updated": "2025-26 source record",
+        "verified": true
+      }
+    },
+    "electrical": {
+      "name": "Electrical Engineering",
+      "aliases": [
+        "electrical",
+        "ee",
+        "electrical engineering"
+      ],
+      "choice_code": "326029310",
+      "sanctioned_intake": 60,
+      "course_duration": "3 years",
+      "mode": "Regular full-time Diploma",
+      "overview": {
+        "text": "Electrical Engineering diploma program offered at B.L. Patil Polytechnic, Khopoli. DTE institute-course records list a sanctioned intake of 60 seats for this program; the institute is an unaided MSBTE-affiliated polytechnic.",
+        "source": "Directorate of Technical Education, Maharashtra State institute-course records for institute code 3260",
+        "updated": "2025-26 source record",
+        "verified": true
+      }
+    },
+    "electronics_telecommunication": {
+      "name": "Electronics and Telecommunication Engineering",
+      "aliases": [
+        "electronics",
+        "telecommunication",
+        "entc",
+        "electronics and telecommunication engineering"
+      ],
+      "choice_code": "326037210",
+      "sanctioned_intake": 30,
+      "course_duration": "3 years",
+      "mode": "Regular full-time Diploma",
+      "overview": {
+        "text": "Electronics and Telecommunication Engineering diploma program offered at B.L. Patil Polytechnic, Khopoli. DTE institute-course records list a sanctioned intake of 30 seats for this program; the institute is an unaided MSBTE-affiliated polytechnic.",
+        "source": "Directorate of Technical Education, Maharashtra State institute-course records for institute code 3260",
+        "updated": "2025-26 source record",
+        "verified": true
+      }
+    }
+  },
+  "fees": {
+    "first_year": {
+      "computer": {
+        "text": "₹37,334 total approved annual fee for AY 2025-26 (₹33,940 tuition + ₹3,394 development fee). This is the institute-level approved fee and may be revised for later academic years.",
+        "source": "MSBTE Fees Fixation Committee, AY 2025-26 fee order",
+        "updated": "2025-10-16",
+        "verified": true
+      },
+      "mechanical": {
+        "text": "₹37,334 total approved annual fee for AY 2025-26 (₹33,940 tuition + ₹3,394 development fee). This is the institute-level approved fee and may be revised for later academic years.",
+        "source": "MSBTE Fees Fixation Committee, AY 2025-26 fee order",
+        "updated": "2025-10-16",
+        "verified": true
+      },
+      "civil": {
+        "text": "₹37,334 total approved annual fee for AY 2025-26 (₹33,940 tuition + ₹3,394 development fee). This is the institute-level approved fee and may be revised for later academic years.",
+        "source": "MSBTE Fees Fixation Committee, AY 2025-26 fee order",
+        "updated": "2025-10-16",
+        "verified": true
+      },
+      "electrical": {
+        "text": "₹37,334 total approved annual fee for AY 2025-26 (₹33,940 tuition + ₹3,394 development fee). This is the institute-level approved fee and may be revised for later academic years.",
+        "source": "MSBTE Fees Fixation Committee, AY 2025-26 fee order",
+        "updated": "2025-10-16",
+        "verified": true
+      },
+      "electronics_telecommunication": {
+        "text": "₹37,334 total approved annual fee for AY 2025-26 (₹33,940 tuition + ₹3,394 development fee). This is the institute-level approved fee and may be revised for later academic years.",
+        "source": "MSBTE Fees Fixation Committee, AY 2025-26 fee order",
+        "updated": "2025-10-16",
+        "verified": true
+      }
+    },
+    "direct_second_year": {
+      "computer": {
+        "text": "₹37,334 total approved annual fee for AY 2025-26 (₹33,940 tuition + ₹3,394 development fee). This is the institute-level approved fee and may be revised for later academic years. Direct Second Year fee should be re-confirmed against the applicable admission-year fee notice.",
+        "source": "MSBTE Fees Fixation Committee, AY 2025-26 fee order",
+        "updated": "2025-10-16",
+        "verified": false
+      },
+      "mechanical": {
+        "text": "₹37,334 total approved annual fee for AY 2025-26 (₹33,940 tuition + ₹3,394 development fee). This is the institute-level approved fee and may be revised for later academic years. Direct Second Year fee should be re-confirmed against the applicable admission-year fee notice.",
+        "source": "MSBTE Fees Fixation Committee, AY 2025-26 fee order",
+        "updated": "2025-10-16",
+        "verified": false
+      },
+      "civil": {
+        "text": "₹37,334 total approved annual fee for AY 2025-26 (₹33,940 tuition + ₹3,394 development fee). This is the institute-level approved fee and may be revised for later academic years. Direct Second Year fee should be re-confirmed against the applicable admission-year fee notice.",
+        "source": "MSBTE Fees Fixation Committee, AY 2025-26 fee order",
+        "updated": "2025-10-16",
+        "verified": false
+      },
+      "electrical": {
+        "text": "₹37,334 total approved annual fee for AY 2025-26 (₹33,940 tuition + ₹3,394 development fee). This is the institute-level approved fee and may be revised for later academic years. Direct Second Year fee should be re-confirmed against the applicable admission-year fee notice.",
+        "source": "MSBTE Fees Fixation Committee, AY 2025-26 fee order",
+        "updated": "2025-10-16",
+        "verified": false
+      },
+      "electronics_telecommunication": {
+        "text": "₹37,334 total approved annual fee for AY 2025-26 (₹33,940 tuition + ₹3,394 development fee). This is the institute-level approved fee and may be revised for later academic years. Direct Second Year fee should be re-confirmed against the applicable admission-year fee notice.",
+        "source": "MSBTE Fees Fixation Committee, AY 2025-26 fee order",
+        "updated": "2025-10-16",
+        "verified": false
+      }
+    }
+  },
+  "facilities": {
+    "text": "Available records report a library reading hall capacity of 150, library networking and multimedia/reprographic facilities, with reported library holdings of 4,134 titles and 20,974 volumes plus 16 national journals in the historical institute record. Departmental records also report dedicated laboratories/workshops for Civil, Computer, Electrical/Power, Electronics & Telecommunication and Mechanical Engineering. Because these detailed facility figures come from older public institute records, current availability should be confirmed with the institute.",
+    "source": "Public B.L. Patil Polytechnic institute record (historical facility data); DTE institute records",
+    "updated": "Historical facility data; current existence not independently re-verified",
+    "verified": false
+  },
+  "contact": {
+    "text": "B.L. Patil Polytechnic, Near Old Police Station, Khopoli, Tal. Khalapur, Dist. Raigad, Maharashtra 410203. Telephone: 02192-263575. DTE records also identify the same campus as FC3260 and list the address near Old Police Station, Khopoli, with a facilitation-centre contact number 9422494788. The institute telephone number is from a public institute directory; confirm it before using it as current contact information.",
+    "address": "Near Old Police Station, Khopoli, Tal. Khalapur, Dist. Raigad, Maharashtra 410203",
+    "phone": "02192-263575",
+    "dte_facilitation_phone": "9422494788",
+    "website": "www.blppolykhopoli.com",
+    "source": "DTE Maharashtra institute/facilitation-centre records; public institute directory",
+    "updated": "2026-09-30",
+    "verified": false
+  }
+}
