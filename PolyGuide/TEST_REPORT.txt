@@ -1,0 +1,34 @@
+BUILD VERIFICATION
+
+Python version: 3.12.8
+Engine unit tests: 20 passed.
+Python source syntax: all files parsed successfully.
+CLI smoke test: fees route/department and admission qualification/documents passed.
+GUI: not visually tested in this environment. Test on your local desktop.
+No official college facts were supplied or invented.
+
+test_admission_follow_up (test_engine.TestEngine.test_admission_follow_up) ... ok
+test_admission_typo (test_engine.TestEngine.test_admission_typo) ... ok
+test_back_restores_prompt (test_engine.TestEngine.test_back_restores_prompt) ... ok
+test_combined_fee_question (test_engine.TestEngine.test_combined_fee_question) ... ok
+test_custom_department_menu (test_engine.TestEngine.test_custom_department_menu) ... ok
+test_department_typo (test_engine.TestEngine.test_department_typo) ... ok
+test_empty_input (test_engine.TestEngine.test_empty_input) ... ok
+test_exact_token_matching (test_engine.TestEngine.test_exact_token_matching) ... ok
+test_fee_follow_up (test_engine.TestEngine.test_fee_follow_up) ... ok
+test_fee_typo (test_engine.TestEngine.test_fee_typo) ... ok
+test_history_bounded (test_engine.TestEngine.test_history_bounded) ... ok
+test_home_reset (test_engine.TestEngine.test_home_reset) ... ok
+test_invalid_data (test_engine.TestEngine.test_invalid_data) ... ok
+test_long_input (test_engine.TestEngine.test_long_input) ... ok
+test_missing_source_blocked (test_engine.TestEngine.test_missing_source_blocked) ... ok
+test_no_route_guess (test_engine.TestEngine.test_no_route_guess) ... ok
+test_topic_switch (test_engine.TestEngine.test_topic_switch) ... ok
+test_tree (test_engine.TestEngine.test_tree) ... ok
+test_unverified_data_blocked (test_engine.TestEngine.test_unverified_data_blocked) ... ok
+test_verified_record_rendered (test_engine.TestEngine.test_verified_record_rendered) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.012s
+
+OK
