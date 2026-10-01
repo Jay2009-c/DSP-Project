@@ -1,0 +1,13 @@
+PolyGuide Local Model Prototype - Test Report
+=============================================
+
+Automated tests: 24 passed, 0 failed.
+
+Coverage added in this revision:
+- AI DIRECT routes typed questions directly to the model.
+- AI DIRECT does not call intent routing.
+- AI DIRECT supplies the complete college JSON to the model.
+- Verification status is preserved in the direct model context.
+- AI DIRECT does not silently fall back to intent guessing when the model is unavailable.
+- Home/Back/chip UI actions remain explicit navigation commands.
+- Existing deterministic admission, fees, department, typo, navigation and validation tests continue to pass.
